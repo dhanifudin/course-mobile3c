@@ -1,0 +1,12 @@
+- diajarkan cara melihat view group di dalamnya ada view
+- kita tidak membutuhkan id kecuali kita akan mengakses nilai yang ada di dalamnya.
+- tidak dianjurkan melakukan proses pada UI sebelum menggunakan override
+- pertemuan kemarin menjelaskan tentang parent (PBO)
+- Membahas fungsi R dalam code
+- Membahas tentang pengkonversian integer dan string
+- Navigation component digunakan untuk memanage navigasi antara activity dan fragment (seperti perbedaan tampilan layout di Hp dan tablet) -> bisa juga untuk menggunakan coding yang sama dengan layout yang berbeda (alternative layout)
+- pada navigation component terdapat destination
+- Setup yang digunakan untuk navigation componen perlu penambahaan library, jadi kecepatan proses compile juga terpengaruh.
+- Navigation editor terdapat 3 bagian yaitu Destinations panel, Graph Editor, dan Attributes (menggunakan ID)
+- penamaan folder ada yang diatur menggunakan android studio, jika sudah proses folder akan otomatis bisa dipanggil menggunakan R.
+- Data yang dibawa saat melakukan navigasi bisa menggunakan fungsi navigate
