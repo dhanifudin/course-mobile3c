@@ -6,6 +6,9 @@ Pada pertemuan kali ini akan dibahas tentang Widget dand Navigation
 
 * Widget merupakan komponen untuk membangun UI di Android
 * Kita dapat melihat komponen tersebut di UI widget Android Studio:
+
+UI Hierarchy merupakan view group yang dimana didalam view group terdapat view. Apabila kita ingin memanipulasi widget sebaiknya kita harus mendefinisikan id.
+Set/Get dalam widget tergantung dari widget yang kita gunakan sehingga dapat berbeda-beda. Set/Get dalam widget:
 TextView,
 Button,
 ScrollView,
@@ -21,6 +24,8 @@ Setiap aplikasi yang dibanun mempunyai fixed start destination. Ini merupakan ha
 ### Navigation Graph
 
 Destinations menghubungkan konten-konten yang berbeda di aplikasi anda. Actions merupakan alat yang digunakan untuk menghubungkan destinations tersebut.
+
+###
 
 
 
