@@ -1,0 +1,21 @@
+Rangkuman Pertemuan 3 Mobile
+- View group di dalamnya ada view
+- Id tidak harus ada kecuali kita akan mengakses nilai yang ada di dalamnya.
+- Jangan melakukan proses pada UI sebelum menggunakan override
+- Menjelaskan tentang parent (PBO)
+- Membahas fungsi R dalam code
+- Membahas tentang pengkonversian integer dan string
+- Navigation component digunakan untuk memanage navigasi antara activity dan fragment (seperti perbedaan tampilan layout di Hp dan tablet) -> bisa menggunakan coding yang sama dengan layout yang berbeda (alternative layout)
+- pada navigation component terdapat destination
+- Setup yang digunakan untuk navigation componen perlu penambahaan library, jadi kecepatan proses compile juga terpengaruh.
+- Navigation editor terdapat 3 bagian yaitu Destinations panel, Graph Editor, dan Attributes (menggunakan ID)
+- NavHost berfungsi untuk mengatur perpindahan fragment
+- refrensi bisa diliat di developer.android.com
+- Ada banyak cara pendekatan untuk belajar pemograman
+- Set up di android bisa menggunakan 2 tempat yaitu di build gradle module dan build gradle project
+- build gradle project biasanya digunakan untuk library yang diprivate
+- Data yang dibawa saat navigasi bisa menggunakan fungsi navigate
+- Fragment -> dalam 1 window banyak screen sedangkan multiple activity -> banyak window
+- multiple activity dapat menyebabkan kesulian navigasi
+- Alasan memakai fragment -> memudahkan perpindahan screen
+- penamaan folder ada yang diatur oleh android studio, jika sudah dicompile folder akan otomatis bisa dipanggil menggunakan R.
