@@ -1,0 +1,5 @@
+<h1>Mini Project</h1>
+<h2>Note Buku Kas</h2>
+Pada mini project ini saya berencana untuk membuat sebuah note atau catatan tetapi dalam bentuk buku kas. Alasan untuk memilih topik ini adalah banyaknya anak remaja atau perintis usaha baru yang terkadang susah dalam melakukan pengaturan uang dan membuat pembukuan keuangan. Dalam kehidupan sehari-hari memang sering kali, kita lupa barang apa saja yang telah kita beli sehingga tiba-tiba uang menipis. Oleh karena itu, dibuatlah sistem pembukuan ini, agar lebih mudah dalam mengatur keuangan pribadi maupun usaha.
+
+Pada sistem buku kas ini, memiliki beberapa fitur yaitu seperti membuat catatan, edit, daftar catatan, dan juga pasti adanya penjumlahan keuangan akhir. Penggunanya tidak memerlukan login terlebih dahulu, karena pada buku kas sendiri tidak memiliki data pribadi penting yang perlu dilindungi dengan username dan password. Karena memang ini, hanya sebuah catatan pribadi mengenai pemasukan dan pengeluaran keuangan sehari-hari, semata-mata untuk mengontrol jumlah pengeluaran keuangan. Serta terlihat dengan jelas pemakaian uang setiap pengeluaran.
