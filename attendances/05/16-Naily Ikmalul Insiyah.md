@@ -1,0 +1,15 @@
+- Pembahasan pertemuan kali ini tentang flutter
+- Kelebihan flutter adalah bebas memilih text editor
+- Pada state less widget terdapat build yang digunakan untuk merender tampilan
+- Widget bisa mempumyai banyak argument tergantung widget itu sendiri
+- Flutter adalah sebuah alat yang membuat kita bia membangun aplikasi antar platform (iOs, Android) secara native atau native cross-platform dengan menggunakan satu bahasa pemrograman dan satu basis kode.
+- Dasar-dasar Flutter diantaranya : Mempelajari Statles Widget, Mempelajari Statful Widget, dan Mempelajari Layout Flutter
+- Widget adalah Semua komponen seperti button, text, icon dan sebagainya yang membentuk sebuah tampilan atau kerangka aplikasi.
+- MaterialApp(), membuat aplikasi menerapkan Material Design (design languaged system milik Google) Scaffold, sebagai landasan halaman
+- AppBar(), biasanya menjadi judul (dari sebuah aplikasi atau halaman)
+- Text(), menampilkan teks dan memberikan style pada teks
+- Center(), semua Widget yang ada didalam Widget ini akan diletakkan di bagian tengah
+- Dalam membuat aplikasi nantinya tentu kita akan menggunakan banyak widget, pada Flutter setiap Widget umumnya memiliki properti child atau anak, dari properti inilah kita bisa menggunakan widget didalamnya.
+- Layout Untuk mengatur tata letak atau posisi widget, maka kita akan mengenal dua buah widget yaitu Row dan Column
+- Row akan menampilkan widget-widget secara horizontal atau sebaris dari kiri ke kanan, widget Row menggunakan property children artinya widget ini bisa diisi oleh banyak widget.
+- Column berlaku sebaliknya widget akan mengarah secara vertikal atau dari atas kebawah, widget ini juga menggunakan property children artinya widget ini bisa diisi oleh banyak widget.
