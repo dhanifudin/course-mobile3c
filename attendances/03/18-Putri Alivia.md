@@ -15,4 +15,6 @@ Set/Get dalam widget tergantung dari widget yang kita gunakan sehingga dapat ber
 Navigation Editor terdapat 3 bagian yaitu:
 - Destinations panel: Mencantumkan host navigasi dan semua destinations/tujuan yang saat ini ada di Graph Editor.
 - Graph Editor: Berisi representasi visual dari grafik navigasi. Kita dapat beralih antara tampilan Desain dan representasi XML yang mendasarinya dalam tampilan Teks.
+-Destination adalah area konten yang berbeda di aplikasi Anda.
+-Actions adalah koneksi logis antara tujuan Anda yang mewakili jalur yang dapat diambil pengguna.
 - Attributes: Menampilkan atribut untuk item yang saat ini dipilih dalam grafik navigasi.
