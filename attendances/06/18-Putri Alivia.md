@@ -10,5 +10,8 @@ Putri Alivia(1941720108)
 
  Ada pengkatagorian lain di halaman beranda yaitu Task yang masih berlanjut dan yang sudah selesai.
 
+ Kemungkinan ada fitur diagram dalam bentuk pie yang menjelaskan tentang keseluruhan progres dari task yang telah dikerjakan dan yang belum dikerjakan dalam kurun waktu 30 hari 
+ Hal diatas termasuk ke dalam opsi Ringkasan Task, sewaktu waktu ada perubahan yang disesuaikan dengan kemampuan dan kebutuhan saya. 
+
  Batasan Masalah
- Tidak memasang alert notifikasi/ alarm untuk dealine yang masih dalam proses
+ Tidak memasang alert notifikasi/ alarm untuk dealine yang masih dalam proses.
