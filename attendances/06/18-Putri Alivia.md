@@ -1,5 +1,7 @@
 Gagasan Ide Mini Project
 
+Putri Alivia(1941720108)
+
 - Aplikasi To Do List
  
  Memiliki fitur penambahan Task dengan pengkatagorian Tugas, Kerja dan Wishlist 
