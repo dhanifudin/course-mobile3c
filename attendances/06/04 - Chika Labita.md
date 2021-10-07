@@ -1,7 +1,7 @@
-<h1> Week 06 - Pemrograman Mobile</h1>
+<h1> Pertemuan Minggu Ke- 06 || [ Pemrograman Mobile ]</h1>
 
 <h2>Progress Mini Project </h2>
-Topik pembahasan pada minggu ke 6 ini adalah mengenai progressan mini project untuk minggu depan
+Topik pembahasan pada minggu ke 6 kali ini adalah mengenai progressan mini project untuk minggu depan.
 <h3>Ide atau topik Project : "Pembuatan Aplikasi Panduan Shalat Berbasis Mobile"</h3>
 Sesuai dengan ide project yang saya dapat, maka pada mini project kali ini saya berencana untuk membuat sebuah aplikasi mobile sederhana
 yang berisikan beberapa fitur diantaranya adalah :
