@@ -1,7 +1,7 @@
 <h1> Week 06 - Progress Mini Project </h1>
 
 <h3>Ide Project : Pembuatan Aplikasi Panduan Shalat</h3>
-Berisi beberapa fitur :
+Berisi :
 
 1. Panduan shalat wajib dan sunnah :
    - Hukum shalat
