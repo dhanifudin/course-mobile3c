@@ -20,7 +20,12 @@ Fitur yang nantinya akan terdapat pada aplikasi ini adalah
 Menu yang terdapat pada aplikasi ini
 
 * Home
-* Penanganan
+Pada fitur menu utama ini berisikan tentang tombol menu yang ada aplikasi, yaitu menu penangan luka, about dan tombol exit
+* List Penanganan
+Pada fitur list penangan ini terdapat list dari list luka. Di dalam list tersebut terdapat keterangan gambar dan Judul penangan luka. Jika salah satu dari list penangan tersebut itu di pilih akan masuk ke halaman selanjutnya yaitu halaman Deskripsi Yang berisi panduang penangan luka.
+* Deskripsi Panduan Penanganan
+pada halaman ini berisi tentang deskripsi panduan penaganan tersebut, nantinya akan terdapat video (opsional)
 * About
 
 Mohon maaf saya terlambat mengumpulkan.
+Dalam fitur ini berisi tentang informasi mengenai pembuat aplikasi dan daftar pustaka artikel.
