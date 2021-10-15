@@ -26,6 +26,6 @@ Pada fitur list penangan ini terdapat list dari list luka. Di dalam list tersebu
 * Deskripsi Panduan Penanganan
 pada halaman ini berisi tentang deskripsi panduan penaganan tersebut, nantinya akan terdapat video (opsional)
 * About
+Dalam fitur ini berisi tentang informasi mengenai pembuat aplikasi dan daftar pustaka artikel.
 
 Mohon maaf saya terlambat mengumpulkan.
-Dalam fitur ini berisi tentang informasi mengenai pembuat aplikasi dan daftar pustaka artikel.
