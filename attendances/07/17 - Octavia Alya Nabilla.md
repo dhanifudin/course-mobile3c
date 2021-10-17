@@ -1,5 +1,9 @@
 Pertemuan 7
 
+TI3C - 17 - Octavia Alya Nabilla
+
+Mini Project saya adalah tentang membuat informasi sebuah idol group bernama StrayKids. Dalam aplikasi nya nanti ada informasi tentang group tersebut secara garis besar seperti deskripsi kemudian diisi dengan member siapa saja debut sejak kapan seperti itu, kemudian nanti akan ada button yang akan mengarah ke halaman member dan album. 
+
 Progress pengerjaan mini project
 
 Pada minggu ini progress yang saya kerjakan adalah mengisi halaman main menu serta mengisi halaman member. Yang lalu akan saya lanjutkan ke pembuatan halaman album dan mengisi informasi tentang album tersebut.
