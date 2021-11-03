@@ -1,0 +1,19 @@
+Pertemuan 9 
+- Sqlite dipermudah dengan menggunakan room
+- Perbedaan query di database mobile menggunakan sebuah variabel untuk penyimpanan
+- Sqlite lebih kompleks daripada room
+- Konsep room dengan menggunakan model untuk membuat kolom
+- Database SQLite adalah solusi penyimpanan yang baik jika anda memiliki data terstruktur yang perlu diakses dan disimpan secara persisten serta sering ditelusuri dan diubah
+- Jika menggunakan database SQLite, yang dinyatakan sebagai objek SQLiteDatabase adalah semua interaksi dengan database adalah melalui instance dari kelas SQLiteOpenHelper yang akan mengeksekusi permintaan dan pengelolaan database.
+- Komponenn room : entity(model), DAO (digunakan untuk CRUD), database (berisi isi entity)
+- Room tidak akan ditemukan query sperti select dan lainnya
+- Untuk menuliskan query jangan lupa menambahkan @DAO
+- Singleton untuk memastikan ada 1 instance yang terkoneksi dengan database
+- Kelebihan memakai room adalah jika ada statement yang salah maka tidak di-compile (berbeda dengan sqlite yang tetap di compile), tidak menjalannkan main thread
+- View model dibutuhkan untuk perubahan orientasi pada mobile agar tidak menggambil data ulang, jadi tidak perlu mengmabil ulang dari data set
+- View model menyimpan data di UI, Data tersebut bisa dari room atau sumber lain seperti API
+- Insert data dilakukan melalui repository
+- Repository semacam layer yang digunakan insert, update ke model
+- Room akan men-generate live data ketika database mengalami update
+- Setiap framework mempunyai pattern yang berbeda
+- Materi : https://github.com/google-developer-training
